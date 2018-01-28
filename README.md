@@ -57,7 +57,7 @@ We can buy resources and with that, we can create buildings. But the more there 
 
 </center>
 
-* Here is the array of price variation by purchase number below.
+* Here is the array of price variation by sale number below.
 
 <center>
 
